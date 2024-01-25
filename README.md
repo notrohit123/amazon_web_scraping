@@ -1,4 +1,4 @@
-Scraping amazon product information
+Scraping amazon product information using beautiful soup library
 
 
   * Importing Libraries
